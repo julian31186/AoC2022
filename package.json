@@ -1,0 +1,15 @@
+{
+  "name": "adventofcodesolutions2022",
+  "version": "1.0.0",
+  "main": "elfCalories(Day1).js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "^0.0.1-security"
+  }
+}
