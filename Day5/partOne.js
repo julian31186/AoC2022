@@ -7,7 +7,4 @@ function readFile() {
      });
 }
 
-
-//test
-
 readFile()
